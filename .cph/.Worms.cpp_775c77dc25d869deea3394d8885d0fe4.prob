@@ -1,0 +1,1 @@
+{"name":"Local: Worms","url":"c:\\College\\DSA and CP\\Worms.cpp","tests":[{"id":1675191626328,"input":"5\n2 7 3 4 9\n3\n1 25 11\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\College\\DSA and CP\\Worms.cpp","group":"local","local":true}
