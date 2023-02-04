@@ -1,0 +1,1 @@
+{"name":"Local: Hamburgers","url":"c:\\College\\DSA and CP\\Hamburgers.cpp","tests":[{"id":1675488790768,"input":"BBBSSC\n6 4 1\n1 2 3\n4","output":""},{"id":1675491516260,"input":"BBC\n1 10 1\n1 10 1\n21","output":"7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\College\\DSA and CP\\Hamburgers.cpp","group":"local","local":true}
