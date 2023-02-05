@@ -1,0 +1,1 @@
+{"name":"Local: monsters","url":"c:\\College\\DSA and CP\\monsters.cpp","tests":[{"id":1675605474940,"input":"2\n3\n3 1 2\n6\n4 1 5 4 1 1\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\College\\DSA and CP\\monsters.cpp","group":"local","local":true}
