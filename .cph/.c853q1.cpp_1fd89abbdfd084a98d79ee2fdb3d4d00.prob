@@ -1,0 +1,1 @@
+{"name":"Local: c853q1","url":"c:\\College\\DSA and CP\\c853q1.cpp","tests":[{"id":1676559165794,"input":"4\n4 3\nBRBB\nRBR\n4 7\nBRBR\nRRBRBRB\n3 4\nRBR\nBRBR\n5 4\nBRBRR\nBRBR\n","output":""},{"id":1676561101879,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\College\\DSA and CP\\c853q1.cpp","group":"local","local":true}
